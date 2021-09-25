@@ -1,0 +1,50 @@
+header {
+    background-color: crimson;
+    color: whitesmoke;
+    width: 95%;
+    border-radius: 5px;
+    text-align: center;
+    position: fixed;
+    top: 5px;
+}
+
+img {
+    width: 50;
+    max-width: 500px;
+
+}
+
+footer {
+    background-color: crimson;
+    color: white;
+    position: fixed;
+    bottom: 5px;
+    width: 95%;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+#contact-section {
+    background: rgb(240, 236, 236);
+    border-radius: 5px;
+    height: fit-content;
+}
+
+label {
+    color: crimson;
+}
+
+h2 {
+    color: crimson;
+
+}
+
+section {
+    width: 95%;
+
+}
+
+* {
+        font-family: Arial, Helvetica, sans-serif;
+}
